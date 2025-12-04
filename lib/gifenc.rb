@@ -1,4 +1,4 @@
-require 'pry-byebug'
+#require 'pry-byebug'
 
 # Gifenc is a pure Ruby library to encode, decode and edit GIF files. It aims
 # to eventually support the complete {file:docs/Specification.md specification}.
